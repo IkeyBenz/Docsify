@@ -25,3 +25,8 @@ HTML??
 <h1 class="Heck">Yah</h1>
 ```
 
+...Did somebody say, SWIFT!?
+```swift
+func confirmTo(name: String) {
+    print("Hell yeah I write Swift, \(name).")
+}
